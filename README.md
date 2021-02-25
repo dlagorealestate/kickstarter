@@ -8,7 +8,7 @@
 
 ## Analysis and Challenges
     -I ran into quite a few challenges being this is my first time with any of this at all. My main challenges were really making sure the formulas in excel were written correctly. Many times i would encounter the "Not enough Parameters" or even just not putting a comma or quoatation where i need to. Trying to remember when to put a comma, quotations, and parentheses can become difficult. This excercise was absolutely perfect to "kickstart" for sure. Through the days I feel more and more comfortable about the information and writing and memorizing the formulas.
-    -As these screenshots show, we were able to see what the percentage of the goal was met. We showed a graph of the successes and failures by month, and even put the ability to filter that information by year. Using the code for percentage =Round(cell,cell *100,0) was how we were able to determine what percentage of the productions were funded.
+    -As these screenshots show, we were able to see what the percentage of the goal was met. We showed a graph of the successes and failures by month, and even put the ability to filter that information by year. Using the code for percentage =Round(cell,cell *100,0) was how we were able to determine what percentage of the productions were funded.https://github.com/dlagorealestate/kickstarter/blob/main/96D7FC08-000A-46F2-8A74-A23FC75F4CA6.jpeg 
 
 ### Analysis of Outcomes Based on Launch Date
 
