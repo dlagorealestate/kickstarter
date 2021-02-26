@@ -15,6 +15,7 @@
 ### Analysis of Outcomes Based on Goals
     -With the analysis of the outcomes based on the goal amount, we wanted to see what percent of those goals were met. We wanted to figure out how many were succesful and failed with in a specific goal amount. We took the data and divided it by the toal number of the projects with the same goal amount to see what percentage of it was met. We created a line graph to easily present the data in a simplified format.
 ### Challenges and Difficulties Encountered
+    -My main difficulties came with the formulas. Making sure to remember when to add a space or a comma, can get tricky. Another thing to try and remember for me is to make sure the cell exist before making the filters and columns. Sometimes i got ahead of myself and started dropping the headers into the columns and rows sections, then found my self wondering where the "Year" column was to filter by year, well i never made a year header and column in the worksheet. But these little mistakes really helped me step back and understand that if its in a cell, it will be there, we cant create something that isnt there. 
 
 ## Results
 
@@ -24,9 +25,10 @@
    +The second conclusion we can make is to definitely release a play during the summer months. May, June, July, were the most successful based on the data we took. Releasing a play during these month you are sure to have the most success in comparison to any other time of year. When we filter random years in and out the one consistency we see is the peaks in the beginning and thorugh the summer months. 
   
 - What can you conclude about the Outcomes based on Goals?
+  +The theater projects that needed the least funding had the highest percentage of funding reached which is also why there were so many more of them. But the higher the goal the lower the percentage we saw. Once we got between 30k-45k we saw an increase back to 66% possibly due to the quality of the play and between the two only 9 needed that kind of funding.
 
 - What are some limitations of this dataset?
    +Being that im very new to this, this data set looks to provied all the necessary information to inform Louise on not only her play but the comparison to other plays so that she can have a better idea of when to release her play and how long the funding typically can take.
    
 - What are some other possible tables and/or graphs that we could create?
-   +
+  +Maybe a bar graph for the descriptive Statistics to show it in a simpler form for those who maybe dont know how to read a box and whisker plot.
